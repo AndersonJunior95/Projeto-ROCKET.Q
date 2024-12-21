@@ -19,5 +19,4 @@ Você pode visualizar o layout do projeto <a href="https://www.figma.com/file/vp
 
 # DESAFIOS
 Terminar o Rocket.Q em 5 dias
-- [x] Criar a home do site com código da sala e a área de criar conta - DIA 01
-- [x] Criar a página da Criação de sala - DIA 02
+[x] Criar a home do site com código da sala e a área de criar conta - DIA 01
