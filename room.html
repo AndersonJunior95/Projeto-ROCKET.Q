@@ -57,14 +57,15 @@
                 <section id="questions">
                     <h2 class="sr-only">Perguntas da comunidade</h2>
                     <div class="questions">
+                <!-- Primeira pergunta-->
                         <div class="question-wrapper">
                             <div class="question-content">
                                 <div class="user">
-                                    <img src="assets/avatar.svg" alt="Avatar">
+                                    <img src="assets/user.svg" alt="Avatar">
+                                </div>
                                     <div class="question">
                                         <p>Qual a diferença entre, const, var e let no JavaScript</p>
                                     </div>
-                                </div>
                             </div>
                             <div class="actions">
                                 <a href="#" class="check">
@@ -77,8 +78,88 @@
                             </div>
                         </div>
                     </div>
+
+                    <!-- Segunda pergunta -->
+
+                    <div class="question-wrapper">
+                        <div class="question-content">
+                            <div class="user">
+                                <img src="assets/user.svg" alt="Avatar">
+                            </div>
+                                <div class="question">
+                                    <p>O que é JavaScript</p>
+                                </div>
+                        </div>
+                        <div class="actions">
+                            <a href="#" class="check">
+                                <img src="assets/check.svg" alt="Marcar como lida">
+                                Marcar como lida
+                            </a>
+                            <a href="#" class="delete">
+                                <img src="assets/trash.svg" alt="Excluir"> Excluir
+                            </a>
+                        </div>
+                    </div>
+                        <!-- Terceira Pergunta-->
+                    
+                        <div class="question-wrapper">
+                            <div class="question-content">
+                                <div class="user">
+                                    <img src="assets/user.svg" alt="Avatar">
+                                </div>
+                                    <div class="question">
+                                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur, debitis officia ab saepe ex asperiores adipisci hic repellat eum tempore delectus cupiditate voluptate laborum error eveniet voluptatem aperiam iste repudiandae?</p>
+                                    </div>
+                            </div>
+                            <div class="actions">
+                                <a href="#" class="check">
+                                    <img src="assets/check.svg" alt="Marcar como lida">
+                                    Marcar como lida
+                                </a>
+                                <a href="#" class="delete">
+                                    <img src="assets/trash.svg" alt="Excluir"> Excluir
+                                </a>
+                            </div>
+                        </div>
+
+                        <!-- Pergunta lida-->
+                    
+                    <div class="question-wrapper read">
+                        <div class="question-content">
+                            <div class="user">
+                                <img src="assets/user.svg" alt="Avatar">
+                            </div>
+                                <div class="question">
+                                    <p>O que é typescript</p>
+                                </div>
+                        </div>
+                        <div class="actions">
+                            <a href="#" class="delete">
+                                <img src="assets/trash.svg" alt="Excluir"> Excluir
+                            </a>
+                        </div>
+                    </div>
                 </section>
             </main>
+        </div>
+
+        <!-- MODAL -->
+
+        <div class="modal-wrapper">
+            <div class="modal">
+                <h2>Excluir</h2>
+                <p>Tem certeza que você deseja excluir essa pergunta?</p>
+
+                <form>
+                    <label class="sr-only" for-id="password">Digite sua senha admin</label>
+                    <input type="password" id="password" name="password" placeholder="Digite sua senha">
+
+                    <div class="buttons">
+                        <div class="button">Cancelar</div>
+                        <button>Sim, excluir</button>
+                    </div>
+                </form>
+            </div>
         </div>
     </body>
 </html>
