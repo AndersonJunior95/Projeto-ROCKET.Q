@@ -1,0 +1,27 @@
+{
+  "name": "rocket.q",
+  "version": "1.0.0",
+  "description": "Esse projeto foi desenvolvido com as seguintes tecnologias:",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersonJunior95/Projeto-ROCKET.Q.git"
+  },
+  "keywords": [],
+  "author": "Anderson Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersonJunior95/Projeto-ROCKET.Q/issues"
+  },
+  "homepage": "https://github.com/AndersonJunior95/Projeto-ROCKET.Q#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
