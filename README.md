@@ -25,5 +25,7 @@ Terminar o Rocket.Q em 5 dias
 - [x] Terminar página de excluir perguntas - Dia 03
 - [x] Modal finalizada - DIA 03
 - [x] Início do Back-End - DIA 04
- 1/3 Back-End iniciado com a instalação do NodeJs e plugin como Express e Nodemon - DIA 05
- 2/3 Início dos SCRIPTS main e modal para a página de perguntas - DIA 06
+- [x] Instalação do NodeJs e plugin como Express e Nodemon - DIA 05
+- [x] Fazer a atribuição e remoção de classes para a MODAL - DIA 06
+- [x] Abrir e fechar o "Marcar como lida" e "Excluir", para um melhor funcionamento adicionando escutas - DIA 06
+- [x] Criar um evento pra quando o botão delete for clickado ele abrir a modal que tem as funções OPEN e CLOSE - DIA 06
