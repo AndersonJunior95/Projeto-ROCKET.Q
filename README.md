@@ -25,4 +25,5 @@ Terminar o Rocket.Q em 5 dias
 - [x] Terminar página de excluir perguntas - Dia 03
 - [x] Modal finalizada - DIA 03
 - [x] Início do Back-End - DIA 04
-    1/3 Back-End iniciado com a instalação do NodeJs e plugin como Express e Nodemon - DIA 05
+ 1/3 Back-End iniciado com a instalação do NodeJs e plugin como Express e Nodemon - DIA 05
+ 2/3 Início dos SCRIPTS main e modal para a página de perguntas - DIA 06
