@@ -5,13 +5,12 @@ export default function Modal(){
 
     cancelButton.addEventListener("click", close)
 
-    function open (){
-        // Funcionalidade de atribuuir a classe active para a modal
+    function open(){
+        //funcionalidade de atribuir a classe active para a modal
         modalWrapper.classList.add("active")
     }
-
-    function close (){
-        // Funcionalidade de remover a classe active para a modal
+    function close(){
+        //funcionalidade de remover a classe active da modal
         modalWrapper.classList.remove("active")
     }
 
