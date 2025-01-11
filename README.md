@@ -30,3 +30,4 @@ Terminar o Rocket.Q em 5 dias
 - [x] Abrir e fechar o "Marcar como lida" e "Excluir", para um melhor funcionamento adicionando escutas - DIA 06
 - [x] Criar um evento pra quando o botão delete for clickado ele abrir a modal que tem as funções OPEN e CLOSE - DIA 06
 - [x] Inicio do Banco de Dados - DIA 07
+- [x] Projeto finalizado
